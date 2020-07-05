@@ -1,0 +1,63 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+header{
+	width: 100%;
+	height: 300px;
+	min-height: 200px;
+	min-width: 320px;
+}
+
+nav{
+	text-align: center;
+	font-size: 26px;
+}
+
+
+.bottom_nav {
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	height: 100px;
+	background: #CDCDCD;
+}
+
+.bottom_nav img {
+	width: 100px;
+	height: 100px;
+}
+
+.bottom_nav1 {
+	width: 25%;
+	height: 100%;
+	margin: auto;
+	float: left;
+}
+
+.bottom_nav2 {
+	float: left;
+	width: 25%;
+	height: 100%;
+	margin: auto;
+}
+
+.bottom_nav3 {
+	float: left;
+	width: 25%;
+	height: 100%;
+	margin: auto;
+}
+
+.bottom_nav4 {
+	float: left;
+	width: 25%;
+	height: 100%;
+	margin: auto;
+}
+
+.season {
+	width: 90%;
+	height: 700px;
+}

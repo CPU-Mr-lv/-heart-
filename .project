@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>心形预加载</name>
+	<name>移动端</name>
 	<comment>Create By HBuilder</comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1593522893756</id>
+			<id>1593841482275</id>
 			<name></name>
 			<type>10</type>
 			<matcher>
