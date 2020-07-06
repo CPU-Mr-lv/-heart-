@@ -1,22 +1,200 @@
-*{
+* {
 	padding: 0;
 	margin: 0;
 }
 
-header{
+a {
+	text-decoration: none;
+}
+
+header {
 	width: 100%;
-	height: 300px;
+	height: 200px;
 	min-height: 200px;
 	min-width: 320px;
 }
 
-nav{
+nav {
 	text-align: center;
+}
+
+.navl {
+	font-size: 26px;
+	padding-top: 50px;
+	width: 50%;
+	float: left;
+	text-align: right;
+}
+
+.navr {
+	font-size: 24px;
+	padding-top: 50px;
+	width: 40%;
+	float: left;
+	text-align: right;
+}
+
+.txt {
+	width: 100%;
+	height: 100px;
+	background: #CDCDCD;
+	margin: auto;
+}
+
+.txt1 {
+	padding-left: 10px;
+	padding-top: 20px;
+	width: 20%;
+	min-width: 100px;
+	height: 80px;
+	float: left;
+}
+
+.txt2 {
+	background: #F2DEDE;
+	line-height: 50px;
+	width: 80px;
+	min-width: 50px;
+	height: 50px;
+	border: 1px solid aliceblue;
+	font-size: 26px;
+	text-align: center;
+	color: red;
+}
+
+.txt3 {
+	color: #000000;
+	float: left;
+	line-height: 100px;
 	font-size: 26px;
 }
 
+.txt4 {
+	line-height: 100px;
+	font-size: 26px;
+	float: right;
+	color: #000000;
+}
+
+.content {
+	width: 100%;
+	height: 300px;
+	min-width: 320px;
+}
+
+.clear {
+	clear: both;
+}
+
+.content1 {
+	width: 30%;
+	height: 300px;
+	line-height: 300px;
+	float: left;
+}
+
+.content1 img {
+	float: right;
+	width: 250px;
+	height: 250px;
+}
+
+.content2 {
+	padding-left: 10%;
+	float: left;
+	padding-top: 50px;
+	width: 60%;
+	height: 250px;
+}
+
+.content2 img {
+	width: 50px;
+	height:50 ;
+	
+}
+
+.content3l {
+	padding-top: 20px;
+	float: left;
+	width: 50%;
+	height: 42px;
+}
+
+.content_b{
+	min-width: 250px;
+	width: 25%;
+	height: 50px;
+	float: right;
+}
+
+.content_b p{
+	font-size: 30px;
+}
+
+.content_bott {
+	float: left;
+	line-height: 50px;
+}
+
+
+
+
+.xuan{
+	width: 100%;
+	height: 250px;
+	min-width: 320px;
+}
+
+.xuanl{
+	min-width: 160px;
+	width: 50%;
+	height: 100px;
+	float: left;
+}
+
+.xuanr{
+	min-width: 160px;
+	width: 50%;
+	height: 100px;
+	float: left;
+}
+
+.xuanl img{
+	width: 40px;
+	height: 40px;
+}
+
+.xuanr_l{
+	width: 60%;
+	height: 100px;
+	float: left;
+}
+
+.xuanr_lt{
+	width: 35%;
+	height: 50px;
+	float: left;
+}
+
+.xuan_txt{
+	height: 50px;
+	height: 100%;
+	
+}
+.xuan_txt2{
+	height: 40px;
+	height: 100%;
+	
+}
+
+..xuanr_r{
+	width: 50%;
+	height: 100px;
+	float: left;
+}
 
 .bottom_nav {
+	
 	position: fixed;
 	bottom: 0px;
 	width: 100%;
